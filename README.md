@@ -2,14 +2,18 @@
 
 # ⚡ KAEN BLAZE ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Python+%7C+MERN+%7C+Shopify;Building+Futuristic+Solutions"
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Flutter+%7C+Figma;Building+Futuristic+Solutions"
 height="70"
 />
 
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,nextjs,php,wordpress,firebase,docker,git,github,vscode&theme=dark" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,wordpress,firebase,docker,git,github,vscode,flutter,figma,python,mongodb,mysql,postgres,linux&theme=dark" />
+
+</div>
 
 </div>
 <br><br>
