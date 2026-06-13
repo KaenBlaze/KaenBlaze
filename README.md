@@ -11,7 +11,7 @@ height="70"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,typescript,java,js,react,nextjs,nodejs,php,wordpress,firebase,flutter,figma,python,mongodb,mysql,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,typescript,java,js,react,nextjs,nodejs,php,wordpress,firebase,flutter,figma,python,mongodb,mysql,linux,docker,kubernetes,aws,git,graphql,tailwind,express,nestjs,postgres,redis,prisma,vite,terraform&theme=dark" />
 
 </div>
 
