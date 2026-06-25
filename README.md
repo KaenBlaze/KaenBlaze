@@ -2,10 +2,10 @@
 
 # ⚡ KAEN BLAZE ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI&SaaSProducts;Building+Futuristic+Solutions"
-height="70"
+<img
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+SaaS+Products;Building+Futuristic+Solutions"
+  height="70"
 />
-
 
 <br><br>
 
@@ -31,6 +31,7 @@ height="70"
 | ⚡ Full-Stack Systems |   🤖 Automation Tools  |
 | :------------------: | :--------------------: |
 | 🛒 Shopify Solutions | 📱 Mobile Applications |
+| :------------------: | :--------------------: |
 | 🧠 AI Products | 💎 SaaS Products |
 
 </div>
