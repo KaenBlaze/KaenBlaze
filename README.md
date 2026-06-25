@@ -2,7 +2,7 @@
 
 # ⚡ KAEN BLAZE ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Flutter+%7C+Figma;Building+Futuristic+Solutions"
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI & SaaS Products;Building+Futuristic+Solutions"
 height="70"
 />
 
