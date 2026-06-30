@@ -25,16 +25,6 @@
 <br><br>
 
 
-<h2 align="center">Current Focus</h1>
-<div align="center">
-
-| 🧠 AI Products | 💎 SaaS Products |
-|:--------------------:|:-------------------:|
-| 🛒 Shopify Solutions | 📱 Mobile Applications |
-| ⚡ Full-Stack Systems | 🤖 Automation Tools |
-
----
-
 </div>
 
 
