@@ -3,7 +3,7 @@
 # ⚡ KAEN BLAZE ⚡
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior%20AI%20Engineer;LLM%20RAG%20Expert"
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior%20AI%20Engineer;LLM,%20RAG%20Expert"
   height="70"
 />
 
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,typescript,java,js,react,nextjs,nodejs,php,wordpress,firebase,flutter,figma,python,mongodb,mysql,linux,docker,kubernetes,aws,git,graphql,tailwind,express,nestjs,postgres,redis,prisma,vite,terraform&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda,fastapi,postgres,mongodb,redis,elasticsearch,kafka,docker,kubernetes,aws,gcp,azure,linux,bash,git,githubactions,prometheus,grafana&theme=dark&perline=8" />
 
 </div>
 
