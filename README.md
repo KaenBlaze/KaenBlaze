@@ -3,7 +3,7 @@
 # ⚡ KAEN BLAZE ⚡
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+SaaS+Products;Building+Futuristic+Solutions"
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior%20AI%20Engineer;LLM%20RAG%20Expert"
   height="70"
 />
 
