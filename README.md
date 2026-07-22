@@ -88,8 +88,45 @@
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" /><br>AWS</td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" /><br>Nginx</td>
 </tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=woocommerce" width="48" height="48" alt="WooCommerce" />
+    <br>WooCommerce
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
+    <br>Svelte
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+    <br>Express.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+    <br>Redis
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
+    <br>RabbitMQ
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+    <br>Jenkins
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+    <br>GitHub Actions
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+    <br>Terraform
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+    <br>Linux
+  </td>
+</tr>
 </table>
-
 </div>
 
 <!-- <div align="center">
