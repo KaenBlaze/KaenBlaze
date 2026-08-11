@@ -154,19 +154,13 @@
 
 <br><br>
 
-<!-- ========================================================= -->
-<!--                    PROFILE VIEW                           -->
-<!-- ========================================================= -->
-
 <h2 align="center">Profile View</h2>
 
-<br>
-
-<img
-  src="https://count.getloli.com/@KaenBlaze?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"
-  alt="Profile Views"
-/>
-
+<div align="center">
+  <img
+    src="https://count.getloli.com/@KaenBlaze?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"
+    alt="Profile View"
+  />
 </div>
 
 <br><br>
