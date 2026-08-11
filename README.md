@@ -151,6 +151,63 @@
 <!-- <br><br> -->
 
 
+<br><br>
+
+<!-- ========================================================= -->
+<!--                  PROFILE VIEW CHARACTERS                  -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<h2>Profile View</h2>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="./assets/character-1.png" width="85" alt="Character 1">
+</td>
+
+<td align="center">
+<img src="./assets/character-2.png" width="85" alt="Character 2">
+</td>
+
+<td align="center">
+<img src="./assets/character-3.png" width="85" alt="Character 3">
+</td>
+
+<td align="center">
+<img src="./assets/character-4.png" width="85" alt="Character 4">
+</td>
+
+<td align="center">
+<img src="./assets/character-5.png" width="85" alt="Character 5">
+</td>
+
+<td align="center">
+<img src="./assets/character-6.png" width="85" alt="Character 6">
+</td>
+
+<td align="center">
+<img src="./assets/character-7.png" width="85" alt="Character 7">
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- Dynamic Profile View Counter -->
+
+<img
+  src="https://api.sefinek.net/api/v2/moecounter/@KaenBlaze-profile-views?length=6&theme=default3-big"
+  alt="Profile Views"
+/>
+
+</div>
+
+<br><br>
+
 
 
 
