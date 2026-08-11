@@ -151,70 +151,25 @@
 <!-- <br><br> -->
 
 
+
 <br><br>
 
-<div align="center">
+<!-- ========================================================= -->
+<!--                    PROFILE VIEW                           -->
+<!-- ========================================================= -->
 
-<h2>Profile View</h2>
+<h2 align="center">Profile View</h2>
 
-<table align="center">
-<tr>
+<br>
 
-<td align="center">
-<img src="./assets/character-1.png" width="70" alt="0">
-<br><b>0</b>
-</td>
-
-<td align="center">
-<img src="./assets/character-2.png" width="70" alt="2">
-<br><b>2</b>
-</td>
-
-<td align="center">
-<img src="./assets/character-3.png" width="70" alt="0">
-<br><b>0</b>
-</td>
-
-<td align="center">
-<img src="./assets/character-4.png" width="70" alt="1">
-<br><b>1</b>
-</td>
-
-<td align="center">
-<img src="./assets/character-5.png" width="70" alt="4">
-<br><b>4</b>
-</td>
-
-<td align="center">
-<img src="./assets/character-6.png" width="70" alt="8">
-<br><b>8</b>
-</td>
-
-<td align="center">
-<img src="./assets/character-7.png" width="70" alt="9">
-<br><b>9</b>
-</td>
-
-<td align="center">
-<img src="./assets/character-8.png" width="70" alt="7">
-<br><b>7</b>
-</td>
-
-<td align="center">
-<img src="./assets/character-9.png" width="70" alt="2">
-<br><b>2</b>
-</td>
-
-<td align="center">
-<img src="./assets/character-10.png" width="70" alt="5">
-<br><b>5</b>
-</td>
-
-</tr>
-</table>
+<img
+  src="https://count.getloli.com/@KaenBlaze?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"
+  alt="Profile Views"
+/>
 
 </div>
 
+<br><br>
 
 
 
