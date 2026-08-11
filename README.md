@@ -153,10 +153,6 @@
 
 <br><br>
 
-<!-- ========================================================= -->
-<!--                  PROFILE VIEW CHARACTERS                  -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <h2>Profile View</h2>
@@ -165,48 +161,59 @@
 <tr>
 
 <td align="center">
-<img src="./assets/character-1.png" width="85" alt="Character 1">
+<img src="./assets/character-1.png" width="70" alt="0">
+<br><b>0</b>
 </td>
 
 <td align="center">
-<img src="./assets/character-2.png" width="85" alt="Character 2">
+<img src="./assets/character-2.png" width="70" alt="2">
+<br><b>2</b>
 </td>
 
 <td align="center">
-<img src="./assets/character-3.png" width="85" alt="Character 3">
+<img src="./assets/character-3.png" width="70" alt="0">
+<br><b>0</b>
 </td>
 
 <td align="center">
-<img src="./assets/character-4.png" width="85" alt="Character 4">
+<img src="./assets/character-4.png" width="70" alt="1">
+<br><b>1</b>
 </td>
 
 <td align="center">
-<img src="./assets/character-5.png" width="85" alt="Character 5">
+<img src="./assets/character-5.png" width="70" alt="4">
+<br><b>4</b>
 </td>
 
 <td align="center">
-<img src="./assets/character-6.png" width="85" alt="Character 6">
+<img src="./assets/character-6.png" width="70" alt="8">
+<br><b>8</b>
 </td>
 
 <td align="center">
-<img src="./assets/character-7.png" width="85" alt="Character 7">
+<img src="./assets/character-7.png" width="70" alt="9">
+<br><b>9</b>
+</td>
+
+<td align="center">
+<img src="./assets/character-8.png" width="70" alt="7">
+<br><b>7</b>
+</td>
+
+<td align="center">
+<img src="./assets/character-9.png" width="70" alt="2">
+<br><b>2</b>
+</td>
+
+<td align="center">
+<img src="./assets/character-10.png" width="70" alt="5">
+<br><b>5</b>
 </td>
 
 </tr>
 </table>
 
-<br>
-
-<!-- Dynamic Profile View Counter -->
-
-<img
-  src="https://api.sefinek.net/api/v2/moecounter/@KaenBlaze-profile-views?length=6&theme=default3-big"
-  alt="Profile Views"
-/>
-
 </div>
-
-<br><br>
 
 
 
