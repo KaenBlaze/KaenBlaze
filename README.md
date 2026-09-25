@@ -154,7 +154,7 @@
 
 <div align="center">
   <img
-    src="https://count.getloli.com/@Rez4-3yz?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"
+    src="https://count.getloli.com/@:Rez4-3yz?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"
     alt="Profile View"
   />
 </div>
